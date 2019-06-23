@@ -1,0 +1,14 @@
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\bin\Debug\netcoreapp2.1\GAP.WebAPICore.deps.json
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\bin\Debug\netcoreapp2.1\GAP.WebAPICore.runtimeconfig.json
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\bin\Debug\netcoreapp2.1\GAP.WebAPICore.runtimeconfig.dev.json
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\bin\Debug\netcoreapp2.1\GAP.WebAPICore.dll
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\bin\Debug\netcoreapp2.1\GAP.WebAPICore.pdb
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\obj\Debug\netcoreapp2.1\GAP.WebAPICore.csproj.CoreCompileInputs.cache
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\obj\Debug\netcoreapp2.1\GAP.WebAPICore.RazorAssemblyInfo.cache
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\obj\Debug\netcoreapp2.1\GAP.WebAPICore.RazorAssemblyInfo.cs
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\obj\Debug\netcoreapp2.1\GAP.WebAPICore.AssemblyInfoInputs.cache
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\obj\Debug\netcoreapp2.1\GAP.WebAPICore.AssemblyInfo.cs
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\obj\Debug\netcoreapp2.1\GAP.WebAPICore.RazorTargetAssemblyInfo.cache
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\obj\Debug\netcoreapp2.1\GAP.WebAPICore.dll
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\obj\Debug\netcoreapp2.1\GAP.WebAPICore.pdb
+C:\Users\tatiana\Documents\PruebaTecnica\FinalWebApi\GAPTest\GAP.WebAPICore\obj\Debug\netcoreapp2.1\GAP.WebAPICore.csprojAssemblyReference.cache
